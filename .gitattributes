@@ -1,0 +1,11 @@
+# Configuration for git attributes
+# See https://github.com/github/linguist
+Cargo.lock linguist-generated
+*.html linguist-vendored
+
+*.map linguist-generated
+*.ts linguist-detectable
+dist/* linguist-vendored
+
+*.jpg binary
+*.tsx linguist-detectable
