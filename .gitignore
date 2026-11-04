@@ -1,0 +1,9 @@
+.env.local
+*.tgz
+coverage/
+npm-debug.log*
+dist/
+.pnpm-store/
+.env
+build/
+node_modules/
